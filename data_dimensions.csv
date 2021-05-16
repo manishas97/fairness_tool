@@ -1,0 +1,22 @@
+Dimension,Concept,Specification,Description
+Procedural,Control,Process Control,
+Procedural,Control,Decision Control,
+Procedural,Consistency,Across Indiviuals,"Domain : Loan Risk Assessment, Fraud Detection"
+Procedural,Consistency,Across Time,Domain : Customer Dialog 
+Procedural,Bias Suppression,Impartiality,
+Procedural,Bias Suppression,Bias Supression,
+Procedural,Accuracy,Internal Data Quality,
+Procedural,Accuracy,External Data Quality,
+Procedural,Accuracy,Model Performance,
+Procedural,Correctability ,Review,
+Procedural,Correctability ,Contest ,
+Procedural,Correctability ,Human Oversight and correction,
+Distributive,Distributive Norms,Distributive Norms,
+Distributive,Characteristics,Characteristics,
+Interpersonal,Disrespect,Inconsiderate Actions,
+Interpersonal,Disrespect,Abusive Actions,"Domain : Loan Risk Assessment, Fraud Detection"
+Interpersonal,Privacy,Unwarranted Disclosure,
+Interpersonal,Privacy,Intrusiveness,Domain : Customer Dialog
+Interpersonal,Privacy,Use of personal information,
+Interpersonal,Exposure,Mental Integrity,
+Interpersonal ,Exposure,Physical Integrity,
