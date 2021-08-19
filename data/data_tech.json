@@ -1,0 +1,25 @@
+{   "nodes": [
+    {"Components": "DBMS Component"},
+    {"Components": "Decision Component"},
+    {"Components": "Model Component"},
+    {"Components": "Click to fill"}
+    ],
+    "links": [
+    {
+        "Sub-components": "Training and testing",
+        "Sub-sub component": "Cross-validation"
+    },
+    {
+        "Sub-components": " Click to fill",
+        "Sub-sub component": " Click to fill"
+    },
+        {
+        "Sub-components": " Click to fill",
+        "Sub-sub component": " Click to fill"
+    },
+        {
+        "Sub-components": " Click to fill",
+        "Sub-sub component": " Click to fill"
+    }
+    ]
+}
