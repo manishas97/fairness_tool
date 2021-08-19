@@ -3,4 +3,4 @@ numpy
 pandas
 sklearn 
 ethik
-gcloud
+google.cloud
