@@ -12,7 +12,7 @@ import technical_data
 import utils
 
 # Authenticate to Firestore with the JSON account key.
-db = firestore.Client.from_service_account_json('/content/drive/MyDrive/fairness_tool/firestore-key.json')
+db = firestore.Client.from_service_account_json('firestore-key.json')
 
 relevance = ["Relevant", "Not relevant"]
 
