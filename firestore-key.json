@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fairnesstooldatabase",
+  "private_key_id": "210b091135cd566aa62788bccd1fbdeb4edb3c52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUK6klA5qrvSd6\nSvV0eG2doQ94i/PmgYVxw8I9E0f5cXl7zCCI06NnWZCj9d76lq1Y996TCClxo+q/\nY5VvlNOe5tYZZNzKZZCe9H7FepL8Zhn35D79g8dQf9mIEkcf7GumfixRT+31Z+Lx\nMkCRD/hPZH70IdM0q5OiCqz4zytSD1d2lHE/XlIo/NUs8dvYnyJa4RbW8ReDG2a+\nEdqgV57oMZyRwq+jwXjNRTtEDXnlCgmzX+Z1IJLKxU/hrbsrPoSvTVRMbUyyvGdB\nkanGFliozAWYPpEYNaeW4+DX70bSlJCs1QhEIf8mb/8zkI+wSWVIOeQB5SP+Pskg\nuNdEfkAFAgMBAAECggEACDxppHYvWttM3QJr5MmH98Z4w0UrgpckhvYCZDyLXrN4\n88VIvgb5INnpM3Qn47JVqE525V47vZ2PTz6eXmZ4kIKFbRbtOy4WHxV+lkvbyNBt\n0aGakFy9L/LGjvGmsSaMRzo+nilsI0qVFKfOudLU4MAV7YQinrjKUk/3xvDDzbuY\nnp1TyVrfHSyV5t+lr+AXaBhLbrW42+aTDxZD0j0sSEPAbGFq+a2DYlwNWISw3lBV\noyPALqzWb2TFRYjmnLZ9VE2CGb7rIHKumNIXWWtUbdIh3SRgzei35idpPDNZzO+p\nPiw40GowTcUQx8KuxPW6XZw5lzibWiV0rSx98o+RQQKBgQDxg6hRWGd+rnaThewI\nXjIr2NKCctnAbKfeMDSkjbAOJH5iycJUYo+gynnRjvTnaTRWvLAksDM5DgHvGD2y\nczXylT48Q+fw1h/xLM1rngaWAlEG3pn5IdBPGcuyZ8TiGIhx0UrzA0vFHUA5oYaP\nqNDP6Z/x/sUWos8jSQOeZPPU0wKBgQDg5XGEqeq0E+nFVFnlPKlpm9kXthaUG1ao\nL4rOLFDFWW66kq8c9Krk53rwfiYeQcBe5Af54Jkc7yhXsxSl8K1li0hpaqHZgqsM\nRP/MSzaeTuB18V31HbBvJJxEnZdGG08fE1d3zjheRDf3zUNOJzg/s0V/WdjzUbHH\nY6pxUhrwxwKBgFuKE1oBr/iMF9WChRwG1+1WmTNoZLBSfq3wh4N3UKuLmXvIDSf+\n04GWPOX40UqEzZmymvDM+B0/+eutvHTOxjvT5WriMh9OiXzYBmQr2UMyTZPU+3c6\nIcJZfKN6QV2Q/uZk9Yt2TFnB5H3zgxUgX0Tuv/jxH7KcsvYkzoJSsTiRAoGAYEJ0\n0zazSb6YOakADTlovdZCFn8OrPgCoFwxCkw3ijDcTylHoJosp2tY2KT2Bc9Y2oS5\n0T9L6fGHj/oLpXcdkLAMH2rPubzPH6JM5pFu4FWch373G1pI0VmXNVtKi2xW8lMi\nBhqTT+3dEsidvU7WKZW+8mJvlL3r3Q8Qvg5Jj7MCgYEAgCBuTgsFzR9zUiHZYDFm\nRdWyKfHwus3lqdswS6aUafFrTm7f7uihR4gHHXjrzCd1EXeS3PVRhqldsCOHoSpL\nqfJhLu+INDXJEzHTgMErL/32A4JK/OftVbQ8Awk9rb4HaH/N/NWHwehPsH7B/FwH\nS7VvwFqNw4LpQMTEWHCvwi8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-imt4i@fairnesstooldatabase.iam.gserviceaccount.com",
+  "client_id": "111161521343748856317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-imt4i%40fairnesstooldatabase.iam.gserviceaccount.com"
+}
