@@ -6,7 +6,7 @@ import technical_data
 import utils
 from apps import firestore_calls as fc
 
-path = '/content/drive/MyDrive/fairness_tool/technical_data'
+path = 'technical_data'
 
 template_dict = collections.defaultdict(dict)
 template_dirs = [
