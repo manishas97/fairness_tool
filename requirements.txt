@@ -7,3 +7,4 @@ google-cloud-firestore
 graphics.py
 streamlit-aggrid
 streamlit-jina
+bokeh
