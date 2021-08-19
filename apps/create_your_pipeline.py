@@ -9,7 +9,7 @@ import time
 
 #Global variables :
 
-main_df_global = pd.read_csv('/content/drive/MyDrive/fairness_tool/data/data_tech.csv')
+main_df_global = pd.read_csv('/data/data_tech.csv')
 main_key = ["Components", "Sub-components", "Sub-sub component"]
 
 
