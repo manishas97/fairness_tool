@@ -1,7 +1,7 @@
 import streamlit as st
 from apps import model_perspective as mp
 import pandas as pd
-
+from data import *
 
 def data_pie_chart():
     
@@ -21,3 +21,13 @@ def interpersonal_fairness():
   df = pd.DataFrame(data, index = ['Loan Risk Assessment','Customer Dialog', 'Payment Investigations and repair'])
 
   return df
+
+'''
+Data for displaying the pipeline information 
+'''
+def pipeline_information():
+
+    df = pd.read_csv('data/pipeline_information.csv')
+
+    return df
+

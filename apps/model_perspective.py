@@ -18,8 +18,8 @@ def quiz():
 
   questions = []
 
-  question_1 = st.slider('Indicate the importance of procedural fairness', 0.0,10.0,step=0.1, key=1)
-  question_2 = st.slider('Indicate the importance of distributive', 0.0,10.0 ,step=0.1, key=2)
+  question_1 = st.slider('Indicate the importance of procedural fairness', 0.0,10.0,step=0.1)
+  question_2 = st.slider('Indicate the importance of distributive', 0.0,10.0 ,step=0.1)
   
   questions.append(question_1)
   questions.append(question_2)
@@ -42,7 +42,7 @@ def pie_chart(key, parents, values):
     parent=parents,
     value=values)
 
-  fig =px.sunburst(
+  fig = px.sunburst(
     data,
     names='character',
     parents='parent',
@@ -58,7 +58,7 @@ def viewpoint():
   st.title('Please select your viewpoint')
 
   viewpoints = ("User","Developer","Owner")
-  viewpoint = st.selectbox('Select your viewpoint', options = viewpoints, index=0, key = 3)
+  viewpoint = st.selectbox('Select your viewpoint', options = viewpoints)
 
   return viewpoint
 
@@ -89,7 +89,7 @@ Called by app.py
 
 def app():
 
-  with st.beta_container():
+  with st.container():
     
     df_view = recordview();
     
@@ -100,9 +100,7 @@ def app():
       if viewpoint_curr: 
           df_view['viewpoint'] = viewpoint_curr;
 
-
-
-  with st.beta_container():
+  with st.container():
 
    values, key, parents = data_extractor.data_pie_chart();
 
@@ -111,7 +109,7 @@ def app():
    pie_chart(key,parents,values);
   
 
-  with st.beta_container():
+  with st.container():
     
     df_quiz = persistdata();
      

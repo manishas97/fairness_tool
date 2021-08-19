@@ -1,5 +1,4 @@
 import streamlit as st
-from apps import pipeline 
 import pandas as pd
 
 st.title('Enter model information')
@@ -103,9 +102,6 @@ def display_info():
   button_tm = col4.button('Relevant technical methods')
   button_si = col5.button('Understand Social Implications')
   button_csl = col6.button('Case Studies (Literature/User input)')
-
-  
-
 
 def app():
   st.title('Guide')
