@@ -4,6 +4,6 @@ pandas
 sklearn 
 ethik
 google-cloud-firestore
-graphics
+graphics.py
 streamlit-aggrid
 streamlit-jina
