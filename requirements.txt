@@ -3,4 +3,4 @@ numpy
 pandas
 sklearn 
 ethik
-google.cloud
+firebase
