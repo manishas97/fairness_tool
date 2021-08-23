@@ -286,7 +286,8 @@ def pagination(data, b1, b2, mode = "Explore Recommendations"):
 
     for i in data[start:end]:
         st.write(f"""
-          ###### {i}
+          ###### {i   
+            }
         """
         )
 
