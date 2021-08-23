@@ -186,7 +186,7 @@ def get_model_definitions(sel_model):
         name = d.get("Name")
         description = d.get("fairness_philosophy")
 
-        recommendations_definitions.append({name, description})
+        recommendations_definitions.append(name, description)
     
     return recommendations_definitions
 
